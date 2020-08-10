@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Infantil", Cartoon Network
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_4cc39ee6744d2f94e196d0b1009c44a9882af771/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Disney XD
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/disneyxd_d094700e_2f2afeaeac272c44d97bb6358eff612978edcb50/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Nickelodeon
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/nickelodeon_bc33ea4e_a0d4d5c26427996f6cc4f696d5644ad3045999a1/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Boomerang
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/boomerang_2659fc51_de68be095b554cc4274ea7138f86bbf3f67f3aa5/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Discovery Kids
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoverykids_80e28a51_75d0b6f7240c389123856b8a92292c32955ba81f/playlist.m3u8
+
